@@ -4,6 +4,4 @@
 4. Configure Apache Spark
 
 
-
-
 Reference : https://www.roseindia.net/bigdata/pyspark/install-pyspark-on-ubuntu.shtml
